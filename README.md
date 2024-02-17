@@ -50,11 +50,11 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
 <ul>
   <li><b> AntiAFK: </b> Umgeht das AFK Kick Plugin von PlayLegend</li>
   <li><b> AntiStaff: </b> Disconnected dich sobald ein Teamler in deiner >Arena< im Vanish ist</li>
-  <li><b> </b></li>
-  <li><b> </b></li>
-  <li><b> </b></li>
-  <li><b> </b></li>
-  <li><b> </b></li>
+  <li><b> AutoDisconnect: </b>Disconnected dich nach [x] Minuten</li>
+  <li><b> AutoKill: </b>Farmt komplett Automatisch die Mobs in Aincraft (keine Interation nötig)</li>
+  <li><b> AutoSprint: </b>Lässt dich dauerhaft Sprinten</li>
+  <li><b> AutoUpgrade: </b>Upgraded automatisch deine Skills (Modus verstellbar)</li>
+  <li><b> CactusMine</b>Baut automatisch >nur< Kakteen ab</li>
   <li><b> </b></li>
   <li><b> </b></li>
   <li><b> </b></li>

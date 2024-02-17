@@ -39,3 +39,6 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_9.png>
  <p align="left">
 </p>
+
+<h1 align="center">Funktionen</h1>
+<img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_4.png>

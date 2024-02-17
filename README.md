@@ -15,4 +15,7 @@
 
 <h3 align="center">Installation</h3>
 
-<h4 align="center">Installation</h4>
+<h4>Step 1</h4>
+</p> Lade dir die beiden Dateien **LegendClient-1.20.1.jar** und **LegendClient-1.20.1.json** <a href="https://www.visitlondon.com/de">hier</a>. herunter
+ <p align="left">
+</p>

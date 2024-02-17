@@ -45,3 +45,51 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
 <br>
 <h1 align="center">Funktionen</h1>
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_6.png>
+
+
+<ul>
+  <li><b> AntiAFK: </b> Umgeht das AFK Kick Plugin von PlayLegend</li>
+  <li><b> AntiStaff: </b> Disconnected dich sobald ein Teamler in deiner >Arena< im Vanish ist</li>
+  <li><b> </b></li>
+  <li><b> </b></li>
+  <li><b> </b></li>
+  <li><b> </b></li>
+  <li><b> </b></li>
+  <li><b> </b></li>
+  <li><b> </b></li>
+  <li><b> </b></li>
+  <li><b> </b></li>
+ <li><b> </b></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

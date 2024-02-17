@@ -19,4 +19,4 @@
 </p> Lade dir die beiden Dateien <b>LegendClient-1.20.1.jar</b> und <b>LegendClient-1.20.1.json</b> <a href="https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/releases/tag/LegendClient">hier</a> herunter. 
  <p align="left">
 </p>
-<img src=“[Link/Pfad hier einfügen](https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_1.png)https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_1.png“>
+<img src=“[Link/Pfad hier einfügen](https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_1.png>

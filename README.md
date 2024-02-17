@@ -54,7 +54,7 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
   <li><b> AutoKill: </b>Farmt komplett Automatisch die Mobs in Aincraft (keine Interation nötig)</li>
   <li><b> AutoSprint: </b>Lässt dich dauerhaft Sprinten</li>
   <li><b> AutoUpgrade: </b>Upgraded automatisch deine Skills (Modus verstellbar)</li>
-  <li><b> CactusMine</b>Baut automatisch >nur< Kakteen ab</li>
+  <li><b> CactusMine: </b>Baut automatisch >nur< Kakteen ab</li>
   <li><b> HDU: </b>Zeigt Infos wie FPS. Coordinaten... an</li>
   <li><b> KillAura: </b>Tötet alle Entity's im Umkreis von 5 Blöcken</li>
   <li><b> LegendFly: </b>Lässt dich wie in Creative Fliegen</li>

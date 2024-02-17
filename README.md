@@ -16,6 +16,6 @@
 <h3 align="center">Installation</h3>
 
 <h4>Step 1</h4>
-</p> Lade dir die beiden Dateien <font color = red>LegendClient-1.20.1.jar</font> und <b>LegendClient-1.20.1.json</b> <a href="https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/releases/tag/LegendClient">hier</a>  herunter
+</p> Lade dir die beiden Dateien <font color = blue>LegendClient-1.20.1.jar</font> und <b>LegendClient-1.20.1.json</b> <a href="https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/releases/tag/LegendClient">hier</a>  herunter
  <p align="left">
 </p>

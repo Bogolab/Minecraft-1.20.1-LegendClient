@@ -23,7 +23,7 @@
 
 <h4>Step 2</h4>
 </p> Öffne nun deinen Minecraft Ordner (Tasten [win + r] -> "%appdata%/.minecraft") und gehe in den Ordner <b>versions</b>. 
-
+<img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_2.png>
 Dort erstellst du dann einen neuen Ordner mit dem Namen <b>"LegendClient-1.20.1" </b>. In diesen fügst du dann die beiden Heruntergeladenen Dateien ein.
  <p align="left">
 </p>

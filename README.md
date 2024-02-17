@@ -6,6 +6,7 @@
 </p>
 -	Dieser Client wurde weder von PlayLegend in Auftrag gegeben, weder würde er in Kooperation mit Playlegend programmiert. Es handelt sich also lediglich um ein Privatprojekt von mir und zwei Freunden. 
 -	Das spielen mit diesem Client kann grundsätzlich nicht erkannt/bestraft werden. Allerdings können zahlreiche Funktionen in diesem Client bei unvorsichtiger Verwendung zu einem Bann auf PlayLegend führen. 
+<p align="left">
 </p>
 
 

@@ -28,7 +28,7 @@
 Dort erstellst du dann einen neuen Ordner mit dem Namen <b>"LegendClient-1.20.1" </b>.
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_3.png>
 In diesen fügst du dann die beiden Heruntergeladenen Dateien ein.
- <p align="left">
+
 </p>
 <br>
 <br>

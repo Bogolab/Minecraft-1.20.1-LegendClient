@@ -55,11 +55,13 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
   <li><b> AutoSprint: </b>Lässt dich dauerhaft Sprinten</li>
   <li><b> AutoUpgrade: </b>Upgraded automatisch deine Skills (Modus verstellbar)</li>
   <li><b> CactusMine</b>Baut automatisch >nur< Kakteen ab</li>
-  <li><b> </b></li>
-  <li><b> </b></li>
-  <li><b> </b></li>
-  <li><b> </b></li>
- <li><b> </b></li>
+  <li><b> HDU: </b>Zeigt Infos wie FPS. Coordinaten... an</li>
+  <li><b> KillAura: </b>Tötet alle Entity's im Umkreis von 5 Blöcken</li>
+  <li><b> LegendFly: </b>Lässt dich wie in Creative Fliegen</li>
+  <li><b> MobHelp</b>Macht Mobs in deiner Renderdistance besser sichtbar</li>
+  <li><b> NoFall: </b>Verhindert jeglichen Fallschaden</li>
+  <li><b> Schnellzugriff: </b>Gibt dir direckten Zugriff auf die Menus der NPCs in deiner Arena</li>
+  
 </ul>
 
 

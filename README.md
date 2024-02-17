@@ -15,13 +15,13 @@
 
 <h1 align="center">Installation</h1>
 
-<h4>Step 1</h4>
+<h3>Step 1</h3>
 </p> Lade dir die beiden Dateien <b>LegendClient-1.20.1.jar</b> und <b>LegendClient-1.20.1.json</b> <a href="https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/releases/tag/LegendClient">hier</a> herunter. 
  <p align="left">
 </p>
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_1.png>
 
-<h4>Step 2</h4>
+<h3>Step 2</h3>
 </p> Öffne nun deinen Minecraft Ordner (Tasten [win + r] -> "%appdata%/.minecraft") und gehe in den Ordner <b>versions</b>. 
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_2.png>
 Dort erstellst du dann einen neuen Ordner mit dem Namen <b>"LegendClient-1.20.1" </b>.
@@ -30,7 +30,7 @@ In diesen fügst du dann die beiden Heruntergeladenen Dateien ein.
  <p align="left">
 </p>
 
-<h4>Step 3</h4>
+<h3>Step 3</h3>
 </p> Der Letzte Schritt ist es nun den Minecraft Launcher zu öffnen und unter <b>Installationen -> Neue Installation</b> in dem Suchfeld "Version" nach dem LegendClient zu suchen.
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_7.png>
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_8.png>

@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">Installation</h3>
+<h1 align="center">Installation</h1>
 
 <h4>Step 1</h4>
 </p> Lade dir die beiden Dateien <b>LegendClient-1.20.1.jar</b> und <b>LegendClient-1.20.1.json</b> <a href="https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/releases/tag/LegendClient">hier</a> herunter. 

@@ -34,5 +34,7 @@ In diesen fügst du dann die beiden Heruntergeladenen Dateien ein.
 </p> Der Letzte Schritt ist es nun den Minecraft Launcher zu öffnen und unter <b>Installationen -> Neue Installation</b> in dem Suchfeld "Version" nach dem LegendClient zu suchen.
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_7.png>
 <img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_8.png>
+Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr nun wie eine gewöhnliche Version Starten könnt.
+<img src=https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/blob/main/Images/Screenshot_9.png>
  <p align="left">
 </p>

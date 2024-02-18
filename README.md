@@ -72,14 +72,18 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
 LegendClient wird nicht im Launcher angezeigt
 </h3>
 <ul>
-
 <li>1. Prüfe ob sich die .jar als auch die .json Datei in dem Verzeichnis befindet.</li>
 <li>2. Installiere die normale 1.20.1 Version über den Launcher und starte den Launcher neu.</li>
 <li>3. Mehr Hilfe hier: https://github.com/ImpactDevelopment/ImpactIssues/issues/8</li>
-
 </ul>
-
-
+<br>
+<h3 align="center">
+Datei kann nicht runtergeladen werden
+</h3>
+<ul>
+<li>1. Direckter Downloadlink für <a href="https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/releases/download/LegendClient/LegendClient-1.20.1.jar">LegendClient-1.20.1.jar </a></li>
+<li>2. Direckter Downloadlink für <a href="https://github.com/Bogolab/Minecraft-1.20.1-LegendClient/releases/download/LegendClient/LegendClient-1.20.1.json">LegendClient-1.20.1.json </a></li>
+</ul>
 
 
 

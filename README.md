@@ -68,9 +68,9 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
 
 <h1 align="center">Hilfe</h1>
 <br>
-<p align="center">
+<h3 align="center">
 LegendClient wird nicht im Launcher angezeigt
-</p>
+</h3>
 <ul>
 
 <li>1. Prüfe ob sich die .jar als auch die .json Datei in dem Verzeichnis befindet.</li>

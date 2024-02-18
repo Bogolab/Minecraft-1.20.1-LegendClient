@@ -68,7 +68,7 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
 
 <h1 align="center">Hilfe</h1>
 <br>
-<palign="center">
+<p align="center">
 LegendClient wird nicht im Launcher angezeigt
 </p>
 <ul>

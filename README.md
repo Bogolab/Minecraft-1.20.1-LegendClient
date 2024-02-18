@@ -63,9 +63,18 @@ Nun müsste bei euch unter Installationen der LegendClient auftauchen, den ihr n
   <li><b> Schnellzugriff: </b>Gibt dir direckten Zugriff auf die Menus der NPCs in deiner Arena</li>
   
 </ul>
+<br>
+<br>
 
-
-
+<h1 align="center">Hilfe</h1>
+<br>
+<ul><li>LegendClient wird nicht im Launcher angezeigt</li></ul>
+</p>
+1. Prüfe ob sich die .jar als auch die .json Datei in dem Verzeichnis befindet.
+2. Installiere die normale 1.20.1 Version über den Launcher und starte den Launcher neu.
+3. Mehr Hilfe hier: https://github.com/ImpactDevelopment/ImpactIssues/issues/8
+ <p align="left">
+</p>
 
 
 
